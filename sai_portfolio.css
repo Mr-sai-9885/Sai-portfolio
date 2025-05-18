@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo_img {
+    border-radius: 100px;
+}
+
+.welcome {
+    margin-top: 30px;
+}
+
+.my_name {
+    font-size: 150%;
+}
+
+.my_intro {
+    font-size: 100%;
+    color: #b3bdbc;
+
+}
+
+/* loges */
+.logo_img {
+    height: 80px;
+    width: 70px;
+}
+
+.linkedin_logo {
+    color: #274e7d;
+}
+
+.facebook_logo {
+    color: #093c87;
+}
+
+.youtube_logo {
+    color: red;
+}
+
+.contact_me_button {
+    color: white;
+    background-color: #580982;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.my_resume {
+    color: white;
+    background-color: #580982;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+/* what i do section */
+.html_logo {
+    color: #00ff00;
+}
+
+.css_logo {
+    color: blue;
+}
+
+.skill_logo {
+    font-size: 50px;
+}
+
+span {
+    color: #7134eb;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+/* pojects */
+
+
+.my_projects {
+    font-size: 150%;
+    font-weight: bold;
+    color: black;
+    margin: 5px;
+}
+
+.project_name {
+    font-size: 150%;
+    font-weight: bold;
+
+}
+
+.project_details {
+    color: #b3bdbc;
+    font-weight: 100%;
+}
